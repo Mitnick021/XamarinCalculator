@@ -1,0 +1,14 @@
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.csprojAssemblyReference.cache
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.deps.json
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.dll
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\ref\XamarinCalculator.dll
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.pdb
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.AssemblyInfoInputs.cache
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.AssemblyInfo.cs
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.dll
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\ref\XamarinCalculator.dll
+C:\Users\SERGIO\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.pdb
